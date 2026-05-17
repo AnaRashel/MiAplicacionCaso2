@@ -78,3 +78,10 @@ a través de herramientas visuales y estadísticas.
 - NumPy
 - Matplotlib
 - Seaborn
+
+# 🛠️ Streamlit
+
+## 1️⃣ Enlace de aplicativo
+
+```bash
+link https://miaplicacioncaso2-af.streamlit.app/
